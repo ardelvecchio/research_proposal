@@ -1,2 +1,3 @@
 # research_proposal
-3D gen-ai research proposal
+
+This repository publishes the proposal as a GitHub Pages site from `index.html`.
